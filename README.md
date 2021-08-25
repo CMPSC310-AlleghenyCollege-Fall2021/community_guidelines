@@ -8,8 +8,8 @@
 2. Don't have one person do the entire work.
 3. Listen when someone is speaking/presenting.
 4. Interact with your classmates when you have a question.
-5. If you see a classmate struggling, don’t be afraid to help out. 
-5/6. Don't be afraid to ask for help if needed.
+5. If you see a classmate struggling, don’t be afraid to help out.
+6. Don't be afraid to ask for help if needed.
 7. Utilize the resources you are provided.
 
 ### Interactions on Discord

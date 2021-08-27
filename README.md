@@ -14,7 +14,12 @@
 
 ### Interactions on Discord
 
-TODO
+* Be respectful of others.
+* Put your full name as your username.
+* Keep chats in appropriate channels.
+* Do not share the server link with others outside of the organization.
+* Reply to messages in threads to keep discussions organized.
+
 
 ### Interactions on GitHub
 

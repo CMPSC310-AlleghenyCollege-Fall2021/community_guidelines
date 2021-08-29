@@ -34,4 +34,7 @@
 
 ### Team work
 
-TODO
+Meeting during the week
+good communication
+help others if they need help
+plan ahead in general what everyone's role or plan
